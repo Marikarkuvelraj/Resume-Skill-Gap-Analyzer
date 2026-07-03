@@ -1,0 +1,10 @@
+JobRole,Skills
+Data Analyst,python,sql,excel,statistics,powerbi
+Web Developer,html,css,javascript,react,nodejs
+Software Tester,manual testing,selenium,java,test cases
+Machine Learning Engineer,python,ml,statistics,tensorflow
+Android Developer,java,kotlin,android studio,xml
+Cloud Engineer,aws,linux,docker,networking
+UI/UX Designer,figma,adobe xd,wireframing
+DevOps Engineer,docker,kubernetes,jenkins,aws,linux
+
