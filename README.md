@@ -63,9 +63,30 @@ Resume-Skill-Gap-Analyzer/
 │── skill_gap_analyzer.py
 │── templates/
 │── static/
-│── screenshots/
+│── home.png
+│── upload.png
+│── result.png
+│── json-report.png
 └── README.md
 ```
+
+## Screenshots
+
+### Home Page
+
+![Home Page](home.png)
+
+### Resume Upload
+
+![Resume Upload](upload.png)
+
+### Analysis Result
+
+![Analysis Result](result.png)
+
+### JSON Report
+
+![JSON Report](json-report.png)
 
 ## Future Enhancements
 
